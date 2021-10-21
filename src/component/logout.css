@@ -1,0 +1,18 @@
+.btn{
+    padding:17px 30px;
+    margin-top: 10px;
+    background-color: black;
+    border: none;
+    color: white !important;
+    font-size: 14px;
+    font-family: 'inter';
+    border-radius: 3px;
+}
+.logout{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    font-family: 'inter';
+}
